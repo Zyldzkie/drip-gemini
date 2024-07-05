@@ -3,6 +3,9 @@
     <head>
         <title>tailoring</title>
     </head>
+
+
+
     <body>
         <h2 class="register-text">tailoring</h2>
         <hr>
@@ -14,6 +17,9 @@
             <input type="Submit" name="tailoring_form">
         </form>
     </body>
+
+
+
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
